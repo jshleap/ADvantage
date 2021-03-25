@@ -77,7 +77,7 @@ pyparsing==2.4.0
 pyrsistent==0.15.3
 pytest==4.5.0
 python-dateutil==2.8.0
-PyYAML==5.1
+PyYAML==5.4
 pyzmq==18.0.2
 qtconsole==4.5.1
 queuelib==1.5.0
