@@ -13,7 +13,7 @@ chest==0.2.3
 Click==7.0
 cloudpickle==1.0.0
 Cython==0.29.7
-dask==2.1.0
+dask==2021.10.0
 dask-glm==0.2.0
 dask-jobqueue==0.4.1
 dask-ml==0.13.0
